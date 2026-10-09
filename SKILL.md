@@ -3,6 +3,7 @@ name: maimen-money-saver
 slug: maimen-money-saver
 displayName: 麦门省钱助手
 version: 1.0.0
+description: "基于麦当劳官方 MCP 的真实点餐省钱助手。输入人数/预算/口味，查真实门店菜单、一键领取优惠券、用 MCP 算价验证，输出穷鬼单点/多人拼单/企业团餐三种省钱方案，每一分钱都有实时数据支撑。2026 麦当劳程序员创意开发大赛参赛作品。"
 summary: "基于麦当劳官方 MCP 的真实点餐省钱助手：输入人数/预算/口味，查真实菜单、领优惠券、算最优组合，输出穷鬼套餐/优惠叠加/拼单三种省钱方案，每一分钱都有 MCP 真实数据支撑。"
 license: MIT
 category: food-lifestyle
